@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 48" role="img" aria-labelledby="title desc">
+  <title id="title">GEN/DISTRICT</title>
+  <desc id="desc">GenDistrict wordmark for dark backgrounds.</desc>
+  <g transform="translate(2 5)">
+    <path d="M0 0h25v8H8v22h9v-9h17v17H0z" fill="#FF4D20"/>
+    <path d="M26 0h8v10h-8z" fill="#F2EFE6"/>
+  </g>
+  <text x="50" y="34" fill="#F2EFE6" font-family="Arial Black,Inter,Segoe UI,sans-serif" font-size="27" font-weight="900" letter-spacing="-1.2">GEN/DISTRICT</text>
+</svg>
